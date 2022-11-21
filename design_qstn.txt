@@ -1,0 +1,12 @@
+we can write a puthon programming language of web scraping.
+with the help of web scarping, it automatically scrapes the images and text information from the website
+copy the url of the resepctive website
+paste it in the program
+or
+we can inspect the page by right click on the website and copy the details which are having "img" tags
+
+components:
+1.install beautiful soup and requests in your python module
+2. by making request instances and passing the url of the website
+3. passing requests into beautiful soup function
+4. using 'img' tag to retrieve all images from the website
